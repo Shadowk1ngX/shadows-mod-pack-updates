@@ -2,6 +2,10 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Shadows Mod Pack Updates</title>
+    <item>
+      <title>Shadows Mod Pack 0.1.18</title>
+      <pubDate>Fri, 09 Oct 2026 20:58:58 +0000</pubDate>
+      <enclosure url="https://github.com/Shadowk1ngX/shadows-mod-pack-updates/releases/download/v0.1.18/ShadowsModPack-Setup-0.1.18-preview.exe" sparkle:version="0.1.18" sparkle:shortVersionString="0.1.18" sparkle:edSignature="Lim6iwyqwHw3NeSRwVXNub8PIpXqJqDgXx2bevOzRwOmgKyGt4dW6s7C+GndI4GNxFUCAQhnpGk1EyyYjHFMBQ==" length="48963706" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
-
